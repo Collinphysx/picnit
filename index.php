@@ -24,7 +24,7 @@
 <body>
 	<?php menubar(); ?>
 	<div>
-	<img src="images/gui/smalllogo.png" alt="picnit.net" height="150" id="logo">
+	<img src="images/gui/smalllogo.png" alt="picnit.net" height="100" id="logo">
 	</div>
 	<?php searchbar(); ?>
 	<div id="gallery" name="gallery" class="panels">
